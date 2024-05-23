@@ -1,0 +1,1 @@
+一个很棒的项目[Madokami](https://github.com/summerkirakira/Madokami)的插件。
